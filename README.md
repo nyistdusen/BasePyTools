@@ -3,6 +3,7 @@
 
 # getBaseDirToFileList.py
 用于获取某个指定文件夹下面的文件列表
+\n
 调用方式:
 python getBaseDirToFileList.py /www/wwwroot/bw /www/9.txt
 参数说明:
